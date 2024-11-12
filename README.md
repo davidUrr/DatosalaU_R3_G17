@@ -32,7 +32,8 @@ Un modelo de Machine Learning que permita la estimación de costos de transporte
 ### Métricas
 
 ### Gráficas
-
+| Datos        | Descripción        |
+|------------------|------------------|
 | ![image](https://github.com/user-attachments/assets/ae3676c7-43a9-467e-9114-89a8d761d8be)
     | ![image](https://github.com/user-attachments/assets/e3b5413c-a0a3-40a9-93e9-fb7c30126415)
     |
