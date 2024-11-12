@@ -77,6 +77,8 @@ Cuando se analiza los viajes acumulados del mes, se ve una cierta homogeneidad d
 
 En la gráfica anterior se puede apreciar la relación de comunicación entre los diferentes departamentos Origen (y) /Destina (x), destacando que para los departamentos como Antioquia, Cundinamarca hay una gran relación de comunicación interna, esto se explica ya que la demanda interna de viajes es mayor
 
+![image](https://github.com/user-attachments/assets/c41f8822-02a9-4f3a-aa5b-c4df110fad05)
+
 
 En la imagen anterior se puede ver la relación Origen/Destino, en el caso que se quiten los viajes entre el mismo departamento, en este caso se observa una gran dinámica para los departamentos Valle del Cauca, Atlántico, Bolivar, Cundinamarca, Bogotá D.C., Antioquia, esto en parte por tener o puertos principales o tener economias muy desarrolladas.
 
