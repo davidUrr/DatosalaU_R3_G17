@@ -44,16 +44,11 @@ Algunos datos de interes
 
 | Datos        | Descripción        |
 |------------------|------------------|
-| 75.642.468    | Total de viajes registrados entre 2015 y 2023    |
-| 13.413.036    | Número de registros dentro de la base de datos    |
-| Fila 3, Col 1    | Fila 3, Col 2    |
-| Fila 4, Col 1    | Fila 4, Col 2    |
-| Fila 5, Col 1    | Fila 5, Col 2    |
-| Fila 6, Col 1    | Fila 6, Col 2    |
-| Fila 7, Col 1    | Fila 7, Col 2    |
-| Fila 8, Col 1    | Fila 8, Col 2    |
-| Fila 9, Col 1    | Fila 9, Col 2    |
-| Fila 10, Col 1   | Fila 10, Col 2   |
+| 75642468    | Total de viajes registrados entre 2015 y 2023    |
+| 13413036    | Número de registros dentro de la base de datos    |
+| 13406933    | VALLE DE CAUCA en Origenes de Viaje    |
+| 10845932    | VALLE DE CAUCA en Destino de Viaje    |
+
 
 | Departamento Origen        | Viajes Totales        |Departamento Destino        | Viajes Totales        |
 |------------------|------------------|------------------|------------------|
