@@ -34,9 +34,7 @@ Un modelo de Machine Learning que permita la estimación de costos de transporte
 ### Gráficas
 | Datos        | Descripción        |
 |------------------|------------------|
-| ![image](https://github.com/user-attachments/assets/ae3676c7-43a9-467e-9114-89a8d761d8be)
-    | ![image](https://github.com/user-attachments/assets/e3b5413c-a0a3-40a9-93e9-fb7c30126415)
-    |
+| ![image](https://github.com/user-attachments/assets/ae3676c7-43a9-467e-9114-89a8d761d8be)=100x20 | ![image](https://github.com/user-attachments/assets/e3b5413c-a0a3-40a9-93e9-fb7c30126415)|
 | 13413036    | Número de registros dentro de la base de datos    |
 | 13406933    | VALLE DE CAUCA en Origenes de Viaje    |
 | 10845932    | VALLE DE CAUCA en Destino de Viaje    |
