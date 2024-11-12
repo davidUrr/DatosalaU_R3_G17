@@ -3,7 +3,7 @@
 # DatosalaU_R3_G17
 Repositorio del repositorio para el concurso Datos a la U https://www.datos.gov.co/stories/s/Actualidades-del-concurso-Datos-a-la-U/wn73-87k7/
 
-Notebook Solución: 
+Notebook Solución: https://github.com/davidUrr/DatosalaU_R3_G17/blob/master/analisis.ipynb
 
 ### Eje Temático: Transporte
   
@@ -32,7 +32,7 @@ Un modelo de Machine Learning que permita la estimación de costos de transporte
 La plataforma de RNDC es accesible y se puede descargar el conjunto completo de datos (https://rndc.mintransporte.gov.co/MenuPrincipal/tabid/204/language/es-MX/Default.aspx?returnurl=%2f), en esta se puede recopilar datos desde 2015 hasta 2024 mes actual.
 ![image](https://github.com/user-attachments/assets/59f30a3a-a7be-4520-a826-73124f31dc96)
 
-En el Notebook se hace una exploración de los datos
+En el Notebook se hace una exploración de los datos: https://github.com/davidUrr/DatosalaU_R3_G17/blob/master/exploratorio.ipynb
 
 Para hacer un reconocimiento mas profundo la plataforma RNDC y los datos, se baja la información desde 2015 hasta 2023, es de aclarar que la plataforma solo permite acceder a los datos de forma mensualizada, sin embargo como parte de este trabajo se comparte la consolidación del los datos en el siguiente link
 
@@ -48,6 +48,17 @@ Algunos datos de interes
 | 13413036    | Número de registros dentro de la base de datos    |
 | 13406933    | VALLE DE CAUCA en Origenes de Viaje    |
 | 10845932    | VALLE DE CAUCA en Destino de Viaje    |
+
+![image](https://github.com/user-attachments/assets/48fddcc9-cda1-4702-be3c-0b8e025f72b2)
+Cuando se analiza la totalidad de viajes por años, se muestra una tendencia creciente, excepto por la época de la pandemia, donde se reduce levemeente sin embargo la tedencia es creciente.
+
+![image](https://github.com/user-attachments/assets/ff1f5ff2-0ef9-4069-85e8-2f8200b0509c)
+Cuando se analiza los viajes acumulados del mes, se ve una cierta homogeneidad de los datos, con un tendencia aumentar en el segundo semestre el promedio de viajes, se podría considerar una estacionalidad sobre los viajes que a principio de año son bajos y estos van aumentando gradualmente
+
+
+
+
+En la siguiente tabla se observa el Top 10 de Departamentos de Origen y Destino
 
 
 | Departamento Origen        | Viajes Totales        |Departamento Destino        | Viajes Totales        |
