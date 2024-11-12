@@ -73,6 +73,12 @@ Cuando se analiza la totalidad de viajes por años, se muestra una tendencia cre
 
 Cuando se analiza los viajes acumulados del mes, se ve una cierta homogeneidad de los datos, con un tendencia aumentar en el segundo semestre el promedio de viajes, se podría considerar una estacionalidad sobre los viajes que a principio de año son bajos y estos van aumentando gradualmente
 
+![image](https://github.com/user-attachments/assets/4183e426-8348-43e0-a022-9362a6b212c0)
+
+En la gráfica anterior se puede apreciar la relación de comunicación entre los diferentes departamentos Origen (y) /Destina (x), destacando que para los departamentos como Antioquia, Cundinamarca hay una gran relación de comunicación interna, esto se explica ya que la demanda interna de viajes es mayor
+
+
+En la imagen anterior se puede ver la relación Origen/Destino, en el caso que se quiten los viajes entre el mismo departamento, en este caso se observa una gran dinámica para los departamentos Valle del Cauca, Atlántico, Bolivar, Cundinamarca, Bogotá D.C., Antioquia, esto en parte por tener o puertos principales o tener economias muy desarrolladas.
 
 
 
