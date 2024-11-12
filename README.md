@@ -28,14 +28,20 @@ En Este conjunto de datos se encuentra la información relacionada con el REGIST
 ## Solución propuesta
 Un modelo de Machine Learning que permita la estimación de costos de transporte de manera confiable y repetible, para asegurar la reproducibilidad de esta solución, se desarrollará un archivo Jupyter Notebook (.pynb), que incluye todos los pasos necesarios para realizar el análisis, seleccionar el mejor modelo y ejecutar las estimaciones de costos de carga. Los algoritmos de aprendizaje automático mejoran significativamente la precisión de la estimación de costos en los modelos de transporte al aprovechar los conocimientos basados en datos y las capacidades predictivas. Estos algoritmos pueden analizar variables complejas que afectan a los costos, lo que permite obtener pronósticos más confiables.
 
-### Tipo de modelo: 
+### Tipo de modelo: Gradient Boosting Regressor
 ### Métricas
+| Variable        | Valor        |
+|------------------|------------------|
+| Mean Absolute Error (MAE)    | 0.000151  |
+| Mean Squared Error (MSE)    | 0.000002    |
+| Root Mean Squared Error (RMSE)    | 0.001309   |
+| R-squared (R²)    | 0.920474 |
 
 ### Gráficas
 | Matriz de Correlación        | Importancia de variables |
 |------------------|------------------|
 | <img src="https://github.com/user-attachments/assets/ae3676c7-43a9-467e-9114-89a8d761d8be" style="width:50%;display: block; margin: auto;"/> | <img src="https://github.com/user-attachments/assets/e3b5413c-a0a3-40a9-93e9-fb7c30126415" style="display: block; margin: auto;"/>|
-| <img src="https://github.com/user-attachments/assets/d48059e0-227f-4c68-84da-348198e25486)" style="display: block; margin: auto;"/>|  <img src="https://github.com/user-attachments/assets/4b8fc4b0-9b7f-45e9-b159-57b0f2d20247" style="display: block; margin: auto;"/>|
+| <img src="https://github.com/user-attachments/assets/d48059e0-227f-4c68-84da-348198e25486" style="display: block; margin: auto;"/>|  <img src="https://github.com/user-attachments/assets/4b8fc4b0-9b7f-45e9-b159-57b0f2d20247" style="display: block; margin: auto;"/>|
 
 
 ## Información adicional
