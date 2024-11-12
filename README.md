@@ -28,6 +28,18 @@ En Este conjunto de datos se encuentra la información relacionada con el REGIST
 ## Solución propuesta
 Un modelo de Machine Learning que permita la estimación de costos de transporte de manera confiable y repetible, para asegurar la reproducibilidad de esta solución, se desarrollará un archivo Jupyter Notebook (.pynb), que incluye todos los pasos necesarios para realizar el análisis, seleccionar el mejor modelo y ejecutar las estimaciones de costos de carga. Los algoritmos de aprendizaje automático mejoran significativamente la precisión de la estimación de costos en los modelos de transporte al aprovechar los conocimientos basados en datos y las capacidades predictivas. Estos algoritmos pueden analizar variables complejas que afectan a los costos, lo que permite obtener pronósticos más confiables.
 
+### Tipo de modelo: 
+### Métricas
+
+### Gráficas
+
+| ![image](https://github.com/user-attachments/assets/ae3676c7-43a9-467e-9114-89a8d761d8be)
+    | ![image](https://github.com/user-attachments/assets/e3b5413c-a0a3-40a9-93e9-fb7c30126415)
+    |
+| 13413036    | Número de registros dentro de la base de datos    |
+| 13406933    | VALLE DE CAUCA en Origenes de Viaje    |
+| 10845932    | VALLE DE CAUCA en Destino de Viaje    |
+
 ## Información adicional
 La plataforma de RNDC es accesible y se puede descargar el conjunto completo de datos (https://rndc.mintransporte.gov.co/MenuPrincipal/tabid/204/language/es-MX/Default.aspx?returnurl=%2f), en esta se puede recopilar datos desde 2015 hasta 2024 mes actual.
 ![image](https://github.com/user-attachments/assets/59f30a3a-a7be-4520-a826-73124f31dc96)
