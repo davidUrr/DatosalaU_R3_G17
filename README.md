@@ -32,12 +32,12 @@ Un modelo de Machine Learning que permita la estimación de costos de transporte
 ### Métricas
 
 ### Gráficas
-| Datos        | Descripción        |
+| Matriz de Correlación        | Importancia de variables |
 |------------------|------------------|
 | <img src="https://github.com/user-attachments/assets/ae3676c7-43a9-467e-9114-89a8d761d8be" style="width:50%;display: block; margin: auto;"/> | <img src="https://github.com/user-attachments/assets/e3b5413c-a0a3-40a9-93e9-fb7c30126415" style="display: block; margin: auto;"/>|
-| 13413036    | Número de registros dentro de la base de datos    |
-| 13406933    | VALLE DE CAUCA en Origenes de Viaje    |
-| 10845932    | VALLE DE CAUCA en Destino de Viaje    |
+| <img src="https://github.com/user-attachments/assets/d48059e0-227f-4c68-84da-348198e25486)" style="display: block; margin: auto;"/>
+    |  <img src="https://github.com/user-attachments/assets/4b8fc4b0-9b7f-45e9-b159-57b0f2d20247" style="display: block; margin: auto;"/>    |
+
 
 ## Información adicional
 La plataforma de RNDC es accesible y se puede descargar el conjunto completo de datos (https://rndc.mintransporte.gov.co/MenuPrincipal/tabid/204/language/es-MX/Default.aspx?returnurl=%2f), en esta se puede recopilar datos desde 2015 hasta 2024 mes actual.
