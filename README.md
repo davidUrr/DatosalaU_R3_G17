@@ -1,5 +1,9 @@
+# Modelo de Machine Learning para la Estimación de Costos de Transporte en Colombia 
+
 # DatosalaU_R3_G17
 Repositorio del repositorio para el concurso Datos a la U https://www.datos.gov.co/stories/s/Actualidades-del-concurso-Datos-a-la-U/wn73-87k7/
+
+Notebook Solución: 
 
 ### Eje Temático: Transporte
   
@@ -21,10 +25,10 @@ En Este conjunto de datos se encuentra la información relacionada con el REGIST
 * Variables numéricas como el peso en kilogramos, kilómetros recorridos y el valor pagado (VALORESPAGADOS)
 * VALORESPAGADOS se considera la variable objetivo.
 
-##Solución propuesta
+## Solución propuesta
 Un modelo de Machine Learning que permita la estimación de costos de transporte de manera confiable y repetible, para asegurar la reproducibilidad de esta solución, se desarrollará un archivo Jupyter Notebook (.pynb), que incluye todos los pasos necesarios para realizar el análisis, seleccionar el mejor modelo y ejecutar las estimaciones de costos de carga. Los algoritmos de aprendizaje automático mejoran significativamente la precisión de la estimación de costos en los modelos de transporte al aprovechar los conocimientos basados en datos y las capacidades predictivas. Estos algoritmos pueden analizar variables complejas que afectan a los costos, lo que permite obtener pronósticos más confiables.
 
-##Información adicional
+## Información adicional
 La plataforma de RNDC es accesible y se puede descargar el conjunto completo de datos (https://rndc.mintransporte.gov.co/MenuPrincipal/tabid/204/language/es-MX/Default.aspx?returnurl=%2f), en esta se puede recopilar datos desde 2015 hasta 2024 mes actual.
 ![image](https://github.com/user-attachments/assets/59f30a3a-a7be-4520-a826-73124f31dc96)
 
@@ -33,10 +37,22 @@ En el Notebook se hace una exploración de los datos
 Para hacer un reconocimiento mas profundo la plataforma RNDC y los datos, se baja la información desde 2015 hasta 2023, es de aclarar que la plataforma solo permite acceder a los datos de forma mensualizada, sin embargo como parte de este trabajo se comparte la consolidación del los datos en el siguiente link
 
 Para hacer un mejor aprovechamiento de otras fuentes se incluye:
-* La base de datos de codificación DANE donde se puede extrer los datos de longitud, latitud por cada código DANE por ciudad y municipio (https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-politico-administrativa-de-colombia/)
-* La Resolución 4100 de 2004, del Ministerio de Transporte (https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=15600) permite reconocer los pesos máximos por tipo de vehículo, esto facilita establecer las capacidades ociosas de los vehículos en su uso
+* La base de datos de codificación DANE donde se puede extrer los datos de longitud, latitud por cada código DANE por ciudad y municipio (https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-politico-administrativa-de-colombia/), este conjunto se almacena en el archivo (
+* La Resolución 4100 de 2004, del Ministerio de Transporte (https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=15600) permite reconocer los pesos máximos por tipo de vehículo, esto facilita establecer las capacidades ociosas de los vehículos en su uso, este conjunto se adjuta en el archivo.
 
 Algunos datos de interes
 
+| Datos        | Descripción        |
+|------------------|------------------|
+| Fila 1, Col 1    | Total de viajes registrados entre 2015 y 2023    |
+| Fila 2, Col 1    | Número de registros dentro de la base de datos    |
+| Fila 3, Col 1    | Fila 3, Col 2    |
+| Fila 4, Col 1    | Fila 4, Col 2    |
+| Fila 5, Col 1    | Fila 5, Col 2    |
+| Fila 6, Col 1    | Fila 6, Col 2    |
+| Fila 7, Col 1    | Fila 7, Col 2    |
+| Fila 8, Col 1    | Fila 8, Col 2    |
+| Fila 9, Col 1    | Fila 9, Col 2    |
+| Fila 10, Col 1   | Fila 10, Col 2   |
 
 
