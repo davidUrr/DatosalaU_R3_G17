@@ -50,7 +50,7 @@ La plataforma de RNDC es accesible y se puede descargar el conjunto completo de 
 
 En el Notebook se hace una exploración de los datos: https://github.com/davidUrr/DatosalaU_R3_G17/blob/master/exploratorio.ipynb
 
-Para hacer un reconocimiento mas profundo la plataforma RNDC y los datos, se baja la información desde 2015 hasta 2023, es de aclarar que la plataforma solo permite acceder a los datos de forma mensualizada, sin embargo como parte de este trabajo se comparte la consolidación del los datos en el siguiente link
+Para hacer un reconocimiento mas profundo la plataforma RNDC y los datos, se baja la información desde 2015 hasta 2023, es de aclarar que la plataforma solo permite acceder a los datos de forma mensualizada, sin embargo como parte de este trabajo se comparte la consolidación del los datos en el siguiente link (https://drive.google.com/file/d/1XapZCtN82DYOJ6jDU1-bLsJGIY7BgGDn/view?usp=sharing)
 
 Para hacer un mejor aprovechamiento de otras fuentes se incluye:
 * La base de datos de codificación DANE donde se puede extrer los datos de longitud, latitud por cada código DANE por ciudad y municipio (https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-politico-administrativa-de-colombia/), este conjunto se almacena en el archivo (
@@ -66,9 +66,11 @@ Algunos datos de interes
 | 10845932    | VALLE DE CAUCA en Destino de Viaje    |
 
 ![image](https://github.com/user-attachments/assets/48fddcc9-cda1-4702-be3c-0b8e025f72b2)
+
 Cuando se analiza la totalidad de viajes por años, se muestra una tendencia creciente, excepto por la época de la pandemia, donde se reduce levemeente sin embargo la tedencia es creciente.
 
 ![image](https://github.com/user-attachments/assets/ff1f5ff2-0ef9-4069-85e8-2f8200b0509c)
+
 Cuando se analiza los viajes acumulados del mes, se ve una cierta homogeneidad de los datos, con un tendencia aumentar en el segundo semestre el promedio de viajes, se podría considerar una estacionalidad sobre los viajes que a principio de año son bajos y estos van aumentando gradualmente
 
 
